@@ -15,10 +15,10 @@
     background: #fff;
 }
 ::-webkit-scrollbar-thumb{
-    background: #ff004f;
+    background: #4f76f6;
 }
 body{
-    background: #000;
+    background: #1f2b37;
     color: #fff;
 }
 h1{
@@ -27,9 +27,9 @@ h1{
     font-weight: 600;
 }
 .logo{
-    width: 200px;
-    margin-top: 10px;
-    margin-left: 10px;
+    width: 100px;
+    margin-top: 1%;
+    margin-left: 1%;
 }
 form{
     width: 80%;
@@ -60,7 +60,7 @@ form button{
     height: 100%;
     border: none;
     outline: none;
-    background: #ff004f;
+    background: #4f76f6;
     padding: 10px 50px;
     font-size: 18px;
     color: #fff;
@@ -71,7 +71,7 @@ form button{
 #show-more{
     display: none;
     padding: 15px 30px;
-    background: #ff004f;
+    background: #4f76f6;
     color: #fff;
     font-size: 18px;
     border: none;
