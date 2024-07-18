@@ -15,10 +15,10 @@
     background: #fff;
 }
 ::-webkit-scrollbar-thumb{
-    background: #4f76f6;
+    background: #6660ff;
 }
 body{
-    background: #1f2b37;
+    background: #181818;
     color: #fff;
 }
 h1{
@@ -27,7 +27,7 @@ h1{
     font-weight: 600;
 }
 .logo{
-    width: 100px;
+    width: 40px;
     margin-top: 1%;
     margin-left: 1%;
 }
@@ -60,7 +60,7 @@ form button{
     height: 100%;
     border: none;
     outline: none;
-    background: #4f76f6;
+    background: #6660ff;
     padding: 10px 50px;
     font-size: 18px;
     color: #fff;
@@ -71,7 +71,7 @@ form button{
 #show-more{
     display: none;
     padding: 15px 30px;
-    background: #4f76f6;
+    background: #6660ff;
     color: #fff;
     font-size: 18px;
     border: none;
@@ -99,10 +99,10 @@ form button{
     border-radius: 50%;
     font-size: 20px;
     color: #fff;
-    background: #ff004f;
+    background: #6660ff;
     line-height: 50px;
     text-align: center;
-    border: 1px solid #ff004f;
+    border: 1px solid #6660ff;
     position: fixed;
     bottom: 2%;
     right: 2%;
